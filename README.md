@@ -7,7 +7,7 @@
 ## ⚠️ **Statement / 声明**
 
 > **Due to large-scale and concentrated academic defamation and anonymous harassment that occurred within a very short period of time,  
-> I have formally reported the situation to the official authority and submitted all relevant materials for review.**
+> I have formally reported the situation and all documented materials to the official authority.**
 >
 > The circulating accusations are **factually incorrect** and **highly unreasonable**.  
 > To avoid unnecessary amplification, **I will not reproduce or discuss the content here**.
@@ -17,7 +17,7 @@
 ---
 
 > **近期在极短时间内出现了规模化、集中且明显带有恶意倾向的学术诬陷与匿名骚扰行为。  
-> 我已将相关情况正式上报至官方机构，并提交全部材料进入审核流程。**
+> 我已将相关情况与全部材料记录正式上报至官方机构。**
 >
 > 当前流传的指控 **内容失实** 且 **极不合理**。  
 > 为避免不实信息继续扩散，**我不会在此复述或讨论相关内容**。
