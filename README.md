@@ -18,7 +18,6 @@
 > However, it should be made clear that I **do not assume responsibility for the following**:
 >
 > - Any requirement to provide urgent, continuous, or high-frequency real-time responses within 24 hours;
-> - Providing assistance for coursework or course group assignments;
 > - Teaching basic operational tasks (e.g., how to open JSON files);
 > - Assisting in completing coursework or course group assignments;
 > - Helping build a complete IQA evaluation or testing platform from scratch.
@@ -41,7 +40,6 @@
 > 但同时需明确本人亦**不承担以下事项**：  
 >
 > - 任何要求在24小时内进行紧急、持续或高频即时答疑；
-> - 为课程或课程小组作业提供协助；
 > - 教授基础操作性问题（如如何打开JSON文件）；
 > - 协助完成课程或课程小组作业；
 > - 从零协助搭建完整的IQA测试或评测平台。
