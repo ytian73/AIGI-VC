@@ -7,40 +7,43 @@
 ## ⚠️ **Statement / 声明**
 *Last updated: 2026-01-06*
 
-> **Due to large-scale and concentrated academic defamation and anonymous harassment that occurred within a very short period of time,  
-> I have formally reported the situation and all documented materials to the official authority.**
+> Recently, there have been **academic defamation and anonymous harassment activities carried out using identities that appear to be impersonated**.  
+> Such actions exhibit clear malicious intent and **significantly deviate from established academic norms and the accepted boundaries of academic conduct**.
+> The circulating accusations are **factually incorrect and untenable in both factual statements and logical reasoning**, with **clear inconsistencies and contradictions across different claims**.  
+> I have formally reported the situation, together with all relevant evidence and documentation, to the appropriate official authorities.
 >
-> The circulating accusations are **factually incorrect** and **highly unreasonable**.  
-> To avoid unnecessary amplification, **I will not reproduce or discuss the content here**.
+> To prevent similar situations from recurring, it is necessary to clarify the following usage boundaries:  
+> The dataset associated with this project is **publicly released for academic research use**, and researchers are welcome to use it in accordance with standard academic norms.  
+> **Reasonable and good-faith** academic discussion is also welcome.  
+> However, the following boundaries should be clearly noted:
 >
-> The dataset associated with this project is **publicly released for academic research use**, and reasonable, good-faith academic discussion is welcome.  
-> However, please note the following boundaries:
+> - **No obligation to provide immediate or continuous responses**;
+> - **No obligation to provide assistance for coursework or course group assignments**;
+> - **No obligation to offer one-on-one technical guidance or implementation support**.
 >
-> - **No obligation to provide immediate or real-time responses**.
-> - **No obligation to offer one-on-one technical support**, especially for **coursework or course group assignments**.
-> - **No obligation to provide personalized tutoring or implementation assistance**.
+> Specifically, I do **not** assume responsibility for:
 >
-> In particular, I do **not** assume responsibility for:
+> - Teaching basic operational tasks (e.g., how to open JSON files);  
+> - Repeatedly explaining fundamental concepts (e.g., disputes based solely on terminology such as *win rate* versus *preference probability*);  
+> - Assisting with coursework or course group assignments;  
+> - Helping build a complete IQA evaluation or testing platform from scratch.
 >
-> - Teaching basic operations (e.g., how to open JSON files);
-> - Repeatedly explaining fundamental concepts (e.g., whether *win rate* and *preference probability* are equivalent);
-> - Assisting with coursework or **course group assignments**;
-> - Helping build a complete IQA evaluation platform from scratch.
+> **Any continued dissemination of false information or acts of harassment will be documented, and I reserve the right to pursue further legal action in accordance with applicable laws.**
 >
-> **Any continued dissemination of false information or harassment will be documented, and we reserve the right to pursue further legal action if necessary.**
+> **Wishing everyone a productive research year in 2026, with due respect for scholarly contributions and a more rational academic environment. 🙂**
 
-> **Wishing everyone a productive, respectful, and rewarding research year in 2026. 🙂**
+
 
 ---
 
-> **近期在极短时间内出现了规模化、集中且明显带有恶意倾向的学术诬陷与匿名骚扰行为。  
-> 我已将相关情况与全部材料记录正式上报至官方机构。**
+> 近期出现了**以疑似伪造身份实施的学术诬陷与匿名骚扰行为**。
+> 相关行为带有明显恶意倾向，且且**明显偏离正常的学术规范与学术行为边界**。
+> 当前流传的相关指控**内容失实，在事实陈述与逻辑上均无法成立，且前后说法相互矛盾**。    
+> 我已将相关情况及全部证据材料**正式上报至官方机构**。
 >
-> 当前流传的指控 **内容失实** 且 **极不合理**。  
-> 为避免不实信息继续扩散，**我不会在此复述或讨论相关内容**。
->
+> 为避免类似情况再次发生，有必要就相关使用边界作出明确说明： 
 > 本数据库为**公开发布的学术研究数据资源**，欢迎在遵循学术规范的前提下合理使用，  
-> 合理、善意的学术讨论亦是欢迎的。  
+> **合理、善意**的学术讨论亦是欢迎的。  
 > 但同时需明确以下边界：
 >
 > - **不承担即时或持续答疑的义务**；
@@ -55,7 +58,7 @@
 > - 从零协助搭建完整的 IQA 测试或评测平台。
 >
 > **如继续传播不实信息或进行骚扰行为，我方将留存相关记录，并保留依法采取进一步法律措施的权利。**
-
+>
 > **祝大家 2026 年科研顺利，成果得到尊重，学术环境更加理性与清朗。🙂**
 
 
