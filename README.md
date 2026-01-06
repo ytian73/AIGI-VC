@@ -8,10 +8,10 @@
 *Last updated: 2026-01-06*
 
 > Recently, there have been **academic defamation and anonymous harassment activities carried out using identities that appear to be impersonated**.  
-> Such actions exhibit clear malicious intent and **significantly deviate from established academic norms and the accepted boundaries of academic conduct**.
+> Such actions exhibit clear malicious intent and **significantly deviate from established academic norms and the accepted boundaries of academic conduct**.  
 > The circulating accusations are **factually incorrect and untenable in both factual statements and logical reasoning**, with **clear inconsistencies and contradictions across different claims**.  
-> I have formally reported the situation, together with all relevant evidence and documentation, to the appropriate official authorities.
->
+> I have formally reported the situation, together with all relevant evidence and documentation, to the appropriate official authorities.  
+>  
 > To prevent similar situations from recurring, it is necessary to clarify the following usage boundaries:  
 > The dataset associated with this project is **publicly released for academic research use**, and researchers are welcome to use it in accordance with standard academic norms.  
 > **Reasonable and good-faith** academic discussion is also welcome.  
@@ -36,15 +36,15 @@
 
 ---
 
-> 近期出现了**以疑似伪造身份实施的学术诬陷与匿名骚扰行为**。
-> 相关行为带有明显恶意倾向，且且**明显偏离正常的学术规范与学术行为边界**。
+> 近期出现了**以疑似伪造身份实施的学术诬陷与匿名骚扰行为**。  
+> 相关行为带有明显恶意倾向，且且**明显偏离正常的学术规范与学术行为边界**。 
 > 当前流传的相关指控**内容失实，在事实陈述与逻辑上均无法成立，且前后说法相互矛盾**。    
-> 我已将相关情况及全部证据材料**正式上报至官方机构**。
+> 我已将相关情况及全部证据材料**正式上报至官方机构**。  
 >
-> 为避免类似情况再次发生，有必要就相关使用边界作出明确说明： 
+> 为避免类似情况再次发生，有必要就相关使用边界作出明确说明：  
 > 本数据库为**公开发布的学术研究数据资源**，欢迎在遵循学术规范的前提下合理使用，  
 > **合理、善意**的学术讨论亦是欢迎的。  
-> 但同时需明确以下边界：
+> 但同时需明确以下边界：  
 >
 > - **不承担即时或持续答疑的义务**；
 > - **不承担为课程或课程小组作业提供协助的义务**；
