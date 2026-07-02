@@ -3,54 +3,6 @@
 </h2>
 
 ---
-
-## ⚠️ **Statement / 声明**
-*Last updated: 2026-01-06*
-
-> Recently, there have been **academic defamation and anonymous harassment activities carried out using identities that appear to be impersonated**.  
-> Such actions exhibit clear malicious intent and **significantly deviate from established academic norms and the accepted boundaries of academic conduct**.  
-> The circulating accusations are **factually incorrect and untenable in both factual statements and logical reasoning**, with **clear inconsistencies and contradictions across claims**.  
-> I have formally reported the situation, together with all relevant evidence and documentation, to the appropriate official authorities.
->
-> To prevent similar situations from recurring, it is necessary to clarify the following usage boundaries:  
-> The dataset associated with this project is **publicly released for academic research use**, and researchers are welcome to use it in accordance with standard academic norms.  
-> **Reasonable and good-faith** academic discussion is also welcome.  
-> However, it should be made clear that I **do not assume responsibility for the following**:
->
-> - Any requirement to provide urgent, continuous, or high-frequency real-time responses within 24 hours;
-> - Teaching basic operational tasks (e.g., how to open JSON files);
-> - Assisting in completing coursework or course group assignments;
-> - Helping build a complete IQA evaluation or testing platform from scratch.
->
-> **Any continued dissemination of false information or acts of harassment will be documented, and I reserve the right to pursue further legal action in accordance with applicable laws.**
->
-> Wishing everyone a productive research year in 2026, with due respect for scholarly contributions and a more rational academic environment. 🙂
-
-
----
-
-> 近期出现了**以疑似伪造身份实施的学术诬陷与匿名骚扰行为**。  
-> 相关行为带有明显恶意倾向，且**明显偏离正常的学术规范与学术行为边界**。  
-> 当前流传的相关指控**内容失实，在事实陈述与逻辑上均无法成立，且前后说法相互矛盾**。    
-> 我已将相关情况及全部证据材料**正式上报至官方机构**。  
->
-> 为避免类似情况再次发生，有必要就相关使用边界作出明确说明：  
-> 本数据库为**公开发布的学术研究数据资源**，欢迎在遵循学术规范的前提下合理使用，  
-> **合理、善意**的学术讨论亦是欢迎的。  
-> 但同时需明确本人亦**不承担以下事项**：  
->
-> - 任何要求在24小时内进行紧急、持续或高频即时答疑；
-> - 教授基础操作性问题（如如何打开JSON文件）；
-> - 协助完成课程或课程小组作业；
-> - 从零协助搭建完整的IQA测试或评测平台。
->
-> **如继续传播不实信息或进行骚扰行为，我方将留存相关记录，并保留依法采取进一步法律措施的权利。**
->
-> 祝大家2026年科研顺利，成果得到尊重，学术环境更加理性与清朗。🙂
-
-
-
----
 <h3 align="left">AI-generated Image Quality Assessment in Visual Communication</h3>
 <p align="center">
     <img src="Figures/dataset-overview.jpeg" width="400px">
